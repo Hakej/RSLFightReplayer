@@ -1,0 +1,13 @@
+C:\Users\zer0v\Desktop\C#\RSLFightReplayer\RSLFightReplayer\bin\Debug\AutoInputWFA.exe.config
+C:\Users\zer0v\Desktop\C#\RSLFightReplayer\RSLFightReplayer\bin\Debug\AutoInputWFA.exe
+C:\Users\zer0v\Desktop\C#\RSLFightReplayer\RSLFightReplayer\bin\Debug\AutoInputWFA.pdb
+C:\Users\zer0v\Desktop\C#\RSLFightReplayer\RSLFightReplayer\bin\Debug\WindowsInput.dll
+C:\Users\zer0v\Desktop\C#\RSLFightReplayer\RSLFightReplayer\bin\Debug\WindowsInput.xml
+C:\Users\zer0v\Desktop\C#\RSLFightReplayer\RSLFightReplayer\obj\Debug\RSLFightReplayer.csprojAssemblyReference.cache
+C:\Users\zer0v\Desktop\C#\RSLFightReplayer\RSLFightReplayer\obj\Debug\RSLFightReplayer.MainForm.resources
+C:\Users\zer0v\Desktop\C#\RSLFightReplayer\RSLFightReplayer\obj\Debug\RSLFightReplayer.IncorrectNumberOfFightsPopup.resources
+C:\Users\zer0v\Desktop\C#\RSLFightReplayer\RSLFightReplayer\obj\Debug\AutoInputWFA.Properties.Resources.resources
+C:\Users\zer0v\Desktop\C#\RSLFightReplayer\RSLFightReplayer\obj\Debug\RSLFightReplayer.csproj.GenerateResource.cache
+C:\Users\zer0v\Desktop\C#\RSLFightReplayer\RSLFightReplayer\obj\Debug\RSLFightReplayer.csproj.CopyComplete
+C:\Users\zer0v\Desktop\C#\RSLFightReplayer\RSLFightReplayer\obj\Debug\AutoInputWFA.exe
+C:\Users\zer0v\Desktop\C#\RSLFightReplayer\RSLFightReplayer\obj\Debug\AutoInputWFA.pdb

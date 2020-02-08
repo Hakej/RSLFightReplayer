@@ -1,0 +1,13 @@
+C:\Users\zer0v\Desktop\C#\AutoInputWFA\AutoInputWFA\bin\Debug\AutoInputWFA.exe.config
+C:\Users\zer0v\Desktop\C#\AutoInputWFA\AutoInputWFA\bin\Debug\AutoInputWFA.exe
+C:\Users\zer0v\Desktop\C#\AutoInputWFA\AutoInputWFA\bin\Debug\AutoInputWFA.pdb
+C:\Users\zer0v\Desktop\C#\AutoInputWFA\AutoInputWFA\obj\Debug\AutoInputWFA.csprojAssemblyReference.cache
+C:\Users\zer0v\Desktop\C#\AutoInputWFA\AutoInputWFA\obj\Debug\AutoInputWFA.Properties.Resources.resources
+C:\Users\zer0v\Desktop\C#\AutoInputWFA\AutoInputWFA\obj\Debug\AutoInputWFA.csproj.GenerateResource.cache
+C:\Users\zer0v\Desktop\C#\AutoInputWFA\AutoInputWFA\obj\Debug\AutoInputWFA.exe
+C:\Users\zer0v\Desktop\C#\AutoInputWFA\AutoInputWFA\obj\Debug\AutoInputWFA.pdb
+C:\Users\zer0v\Desktop\C#\AutoInputWFA\AutoInputWFA\bin\Debug\WindowsInput.dll
+C:\Users\zer0v\Desktop\C#\AutoInputWFA\AutoInputWFA\bin\Debug\WindowsInput.xml
+C:\Users\zer0v\Desktop\C#\AutoInputWFA\AutoInputWFA\obj\Debug\AutoInputWFA.csproj.CopyComplete
+C:\Users\zer0v\Desktop\C#\AutoInputWFA\AutoInputWFA\obj\Debug\AutoInputWFA.IncorrectNumberOfFightsPopup.resources
+C:\Users\zer0v\Desktop\C#\AutoInputWFA\AutoInputWFA\obj\Debug\AutoInputWFA.MainForm.resources
